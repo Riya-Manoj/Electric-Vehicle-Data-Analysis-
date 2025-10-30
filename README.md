@@ -75,7 +75,7 @@ Columns include:
 ---
 
 ## 📄 Project Presentation  
-📘 [Download Project Presentation (PPTX)](Electric_Vehicle_Data_Analysis.pptx)
+📘 [Download Project Presentation (PDF)](Electric_Vehicle_Data_Analysis.pdf)
 
 ---
 
